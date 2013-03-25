@@ -6,8 +6,14 @@
   "dependencies": {
     "component/underscore": "*"
   },
+  "development": {
+    "virtru-components/chai": "*"
+  },
   "license": "MIT",
   "scripts": [
     "index.js"
+  ],
+  "testScripts": [
+    "tests/environment.js"
   ]
 }
