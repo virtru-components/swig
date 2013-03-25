@@ -1,0 +1,13 @@
+{
+  "name": "swig",
+  "repo": "virtru-components/swig",
+  "description": "Swig template library packaged for ComponentJS",
+  "version": "0.13.5",
+  "dependencies": {
+    "component/underscore": "*"
+  },
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
