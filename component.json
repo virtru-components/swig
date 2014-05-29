@@ -4,7 +4,7 @@
   "description": "Swig template library packaged for ComponentJS",
   "version": "0.13.5",
   "dependencies": {
-    "component/underscore": "*"
+    "virtru-components/underscore": "*"
   },
   "development": {
     "virtru-components/chai": "*"
