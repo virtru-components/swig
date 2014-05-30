@@ -2,7 +2,7 @@
   "name": "swig",
   "repo": "virtru-components/swig",
   "description": "Swig template library packaged for ComponentJS",
-  "version": "0.13.5",
+  "version": "0.13.6",
   "dependencies": {
     "virtru-components/underscore": "*"
   },
