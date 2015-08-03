@@ -1,0 +1,8 @@
+{
+  "name": "swig",
+  "description": "Swig template library packaged for ComponentJS",
+  "version": "0.13.7",
+  "dependencies": {
+    "virtru-components/underscore": "git+ssh://git@github.com:virtru-components/underscore#1.4.5"
+  }
+}
